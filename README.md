@@ -1,38 +1,35 @@
-Bitcoin ABC
+Bcash
 ===========
 
-https://bitcoinabc.org
-
-What is Bitcoin?
+How is Bcash different to Bitcoin Cash?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+It's not Bcash is a rebrand of Bitcoin Cash
+
+What is Bcash?
+----------------
+
+Bcash is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Bcash uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network.
 
-What is Bitcoin ABC?
+Why Bcash?
 --------------------
 
-Bitcoin ABC is the name of open source software which enables the use of Bitcoin.
-It is designed to facilite a hard fork to increase Bitcoin's block size limit.
-"ABC" stands for "Adjustable Blocksize Cap".
+Bitcoin Cash and Bitcoin ABC causes confusion to new users therefor the community have
+decideda more appropriate name would be Bcash.
 
-Bitcoin ABC is a fork of the [Bitcoin Core](https://bitcoincore.org) software project.
+Bcash is a fork of the [Bitcoin Core](https://bitcoincore.org) software project.
 
 License
 -------
 
-Bitcoin ABC is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bcash is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
-This Github repository contains only source code of releases.
-
-Bitcoin ABC development takes place at https://reviews.bitcoinabc.org/
-
-You can clone the active development version from here:
-
-    https://reviews.bitcoinabc.org/source/bitcoin-abc.git
+We are looking for anyone that can help promote and/or help the community rebrand furthe
+details will be announced sometime in te future.
